@@ -1,5 +1,5 @@
 ﻿# Python-GraphQL
-Using Flask to make GraphQL API using Python 
+Making simple GraphQL API using python with flask library.
 | No  | Nama                                     | NIM        |
 | --- | ---------------------------------------  | ---------- |
 | 1   | Novan Janis Aditya Halawa              | 1202204033 |
