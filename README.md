@@ -2,8 +2,8 @@
 Making simple GraphQL API using python with flask library.
 | No  | Nama                                     | NIM        |
 | --- | ---------------------------------------  | ---------- |
-| 1   | Novan Janis Aditya Halawa              | 1202204033 |
-| 2   | Amirrahma Hamida                       | 1202200199 |
+| 1   | Novan Janis Aditya Halawa              | 1202201382 |
+| 2   | Amirrahma Hamida                       | 1202204048 |
 
 Install THESE libraries 👇
 ```py
