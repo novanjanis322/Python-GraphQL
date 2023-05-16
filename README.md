@@ -5,11 +5,18 @@ Using Flask to make GraphQL API using Python
 | 1   | Novan Janis Aditya Halawa              | 1202204033 |
 | 2   | Amirrahma Hamida                       | 1202200199 |
 
-Library details 👇
+Install THESE libraries 👇
 ```py
-from flask import Flask
-from flask_mysqldb import MySQL
-from flask_graphql import GraphQLView
-import graphene
+pip install graphene
+pip install flask
+pip install flask_mysqldb
+pip install flask_graphql
 
 ```
+
+How to run :
+```
+1. Import sql file to your database server
+2. adjust your database environment in app file
+3. run app file
+4. Done.
